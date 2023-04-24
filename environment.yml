@@ -1,0 +1,11 @@
+name: aim_ki
+channels:
+    - conda-forge
+dependencies:
+  - black
+  - flake8
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
